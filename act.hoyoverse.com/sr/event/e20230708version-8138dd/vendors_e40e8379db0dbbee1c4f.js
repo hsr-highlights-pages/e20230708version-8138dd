@@ -85281,31 +85281,31 @@
         })
     },
     31396: function(e, t, n) {
-        e.exports = n.p + "effect/model/avatar_kafka/avatar_kafka_model.9d5dcb6d.bin"
+        e.exports = n.p + "act.hoyoverse.com/sr/event/e20230708version-8138dd/effect/model/avatar_kafka/avatar_kafka_model.9d5dcb6d.bin"
     },
     92460: function(e, t, n) {
-        e.exports = n.p + "effect/model/avatar_kafka/avatar_kafka_timeline.0fb7c4a5.bin"
+        e.exports = n.p + "act.hoyoverse.com/sr/event/e20230708version-8138dd/effect/model/avatar_kafka/avatar_kafka_timeline.0fb7c4a5.bin"
     },
     39110: function(e, t, n) {
-        e.exports = n.p + "effect/model/avatar_luka/avatar_luka_model.f453df0f.bin"
+        e.exports = n.p + "act.hoyoverse.com/sr/event/e20230708version-8138dd/effect/model/avatar_luka/avatar_luka_model.f453df0f.bin"
     },
     23136: function(e, t, n) {
-        e.exports = n.p + "effect/model/avatar_luka/avatar_luka_timeline.e85a5a75.bin"
+        e.exports = n.p + "act.hoyoverse.com/sr/event/e20230708version-8138dd/effect/model/avatar_luka/avatar_luka_timeline.e85a5a75.bin"
     },
     22787: function(e, t, n) {
-        e.exports = n.p + "effect/model/avatar_ren/avatar_ren_model.1907f2f3.bin"
+        e.exports = n.p + "act.hoyoverse.com/sr/event/e20230708version-8138dd/effect/model/avatar_ren/avatar_ren_model.1907f2f3.bin"
     },
     58135: function(e, t, n) {
-        e.exports = n.p + "effect/model/avatar_ren/avatar_ren_timeline.f753f8de.bin"
+        e.exports = n.p + "act.hoyoverse.com/sr/event/e20230708version-8138dd/effect/model/avatar_ren/avatar_ren_timeline.f753f8de.bin"
     },
     45876: function(e, t, n) {
-        e.exports = n.p + "effect/model/avatar_kafka/avatar_kafka_scene.a0a89f74.json"
+        e.exports = n.p + "act.hoyoverse.com/sr/event/e20230708version-8138dd/effect/model/avatar_kafka/avatar_kafka_scene.a0a89f74.json"
     },
     78358: function(e, t, n) {
-        e.exports = n.p + "effect/model/avatar_luka/avatar_luka_scene.aff769b5.json"
+        e.exports = n.p + "act.hoyoverse.com/sr/event/e20230708version-8138dd/effect/model/avatar_luka/avatar_luka_scene.aff769b5.json"
     },
     56378: function(e, t, n) {
-        e.exports = n.p + "effect/model/avatar_ren/avatar_ren_scene.4d9ff49e.json"
+        e.exports = n.p + "act.hoyoverse.com/sr/event/e20230708version-8138dd/effect/model/avatar_ren/avatar_ren_scene.4d9ff49e.json"
     },
     93162: function(e, t, n) {
         var r, i;
@@ -138166,27 +138166,27 @@
     },
     78530: function(e, t, n) {
         "use strict";
-        e.exports = n.p + "images/Avatar_Kafka_00_Body1_Color_A.249de3bd..jpg"
+        e.exports = n.p + "act.hoyoverse.com/sr/event/e20230708version-8138dd/images/Avatar_Kafka_00_Body1_Color_A.249de3bd..jpg"
     },
     14272: function(e, t, n) {
         "use strict";
-        e.exports = n.p + "images/Avatar_Kafka_00_Body1_Color_ALP.b1d1cb3b..jpg"
+        e.exports = n.p + "act.hoyoverse.com/sr/event/e20230708version-8138dd/images/Avatar_Kafka_00_Body1_Color_ALP.b1d1cb3b..jpg"
     },
     80121: function(e, t, n) {
         "use strict";
-        e.exports = n.p + "images/Avatar_Kafka_00_Body1_LightMap.906a128c..jpg"
+        e.exports = n.p + "act.hoyoverse.com/sr/event/e20230708version-8138dd/images/Avatar_Kafka_00_Body1_LightMap.906a128c..jpg"
     },
     81590: function(e, t, n) {
         "use strict";
-        e.exports = n.p + "images/Avatar_Kafka_00_Body2_Color.66df582e..jpg"
+        e.exports = n.p + "act.hoyoverse.com/sr/event/e20230708version-8138dd/images/Avatar_Kafka_00_Body2_Color.66df582e..jpg"
     },
     60396: function(e, t, n) {
         "use strict";
-        e.exports = n.p + "images/Avatar_Kafka_00_Body2_LightMap.d9d49488..jpg"
+        e.exports = n.p + "act.hoyoverse.com/sr/event/e20230708version-8138dd/images/Avatar_Kafka_00_Body2_LightMap.d9d49488..jpg"
     },
     74882: function(e, t, n) {
         "use strict";
-        e.exports = n.p + "images/Avatar_Kafka_00_Body_Matmap.cd32aac1..jpg"
+        e.exports = n.p + "act.hoyoverse.com/sr/event/e20230708version-8138dd/images/Avatar_Kafka_00_Body_Matmap.cd32aac1..jpg"
     },
     8590: function(e) {
         "use strict";
@@ -138194,15 +138194,15 @@
     },
     72378: function(e, t, n) {
         "use strict";
-        e.exports = n.p + "images/Avatar_Kafka_00_Face_Color.9ed9e76d..jpg"
+        e.exports = n.p + "act.hoyoverse.com/sr/event/e20230708version-8138dd/images/Avatar_Kafka_00_Face_Color.9ed9e76d..jpg"
     },
     31733: function(e, t, n) {
         "use strict";
-        e.exports = n.p + "images/Avatar_Kafka_00_Hair_Color.a6871582..jpg"
+        e.exports = n.p + "act.hoyoverse.com/sr/event/e20230708version-8138dd/images/Avatar_Kafka_00_Hair_Color.a6871582..jpg"
     },
     59469: function(e, t, n) {
         "use strict";
-        e.exports = n.p + "images/Avatar_Kafka_00_Hair_LightMap.74982b76..jpg"
+        e.exports = n.p + "act.hoyoverse.com/sr/event/e20230708version-8138dd/images/Avatar_Kafka_00_Hair_LightMap.74982b76..jpg"
     },
     98128: function(e) {
         "use strict";
@@ -138210,27 +138210,27 @@
     },
     95041: function(e, t, n) {
         "use strict";
-        e.exports = n.p + "images/Avatar_kafka_00_Face_LightMap.ff1f29de..jpg"
+        e.exports = n.p + "act.hoyoverse.com/sr/event/e20230708version-8138dd/images/Avatar_kafka_00_Face_LightMap.ff1f29de..jpg"
     },
     72630: function(e, t, n) {
         "use strict";
-        e.exports = n.p + "images/Avatar_Luka_00_Body1_Color.03ebbbf6..png"
+        e.exports = n.p + "act.hoyoverse.com/sr/event/e20230708version-8138dd/images/Avatar_Luka_00_Body1_Color.03ebbbf6..png"
     },
     81311: function(e, t, n) {
         "use strict";
-        e.exports = n.p + "images/Avatar_Luka_00_Body1_LightMap.9e535506..png"
+        e.exports = n.p + "act.hoyoverse.com/sr/event/e20230708version-8138dd/images/Avatar_Luka_00_Body1_LightMap.9e535506..png"
     },
     93715: function(e, t, n) {
         "use strict";
-        e.exports = n.p + "images/Avatar_Luka_00_Body2_Color_A.4349fa66..png"
+        e.exports = n.p + "act.hoyoverse.com/sr/event/e20230708version-8138dd/images/Avatar_Luka_00_Body2_Color_A.4349fa66..png"
     },
     66406: function(e, t, n) {
         "use strict";
-        e.exports = n.p + "images/Avatar_Luka_00_Body2_LightMap.0c6419a8..png"
+        e.exports = n.p + "act.hoyoverse.com/sr/event/e20230708version-8138dd/images/Avatar_Luka_00_Body2_LightMap.0c6419a8..png"
     },
     66500: function(e, t, n) {
         "use strict";
-        e.exports = n.p + "images/Avatar_Luka_00_Body_Matmap.1ad685b5..png"
+        e.exports = n.p + "act.hoyoverse.com/sr/event/e20230708version-8138dd/images/Avatar_Luka_00_Body_Matmap.1ad685b5..png"
     },
     2550: function(e) {
         "use strict";
@@ -138238,19 +138238,19 @@
     },
     80961: function(e, t, n) {
         "use strict";
-        e.exports = n.p + "images/Avatar_Luka_00_Face_Color.3fd4fd32..png"
+        e.exports = n.p + "act.hoyoverse.com/sr/event/e20230708version-8138dd/images/Avatar_Luka_00_Face_Color.3fd4fd32..png"
     },
     89692: function(e, t, n) {
         "use strict";
-        e.exports = n.p + "images/Avatar_Luka_00_Face_lightmap.5c688bcc..jpg"
+        e.exports = n.p + "act.hoyoverse.com/sr/event/e20230708version-8138dd/images/Avatar_Luka_00_Face_lightmap.5c688bcc..jpg"
     },
     85988: function(e, t, n) {
         "use strict";
-        e.exports = n.p + "images/Avatar_Luka_00_Hair_Color.a17d15d8..png"
+        e.exports = n.p + "act.hoyoverse.com/sr/event/e20230708version-8138dd/images/Avatar_Luka_00_Hair_Color.a17d15d8..png"
     },
     44642: function(e, t, n) {
         "use strict";
-        e.exports = n.p + "images/Avatar_Luka_00_Hair_LightMap.802aeb4b..png"
+        e.exports = n.p + "act.hoyoverse.com/sr/event/e20230708version-8138dd/images/Avatar_Luka_00_Hair_LightMap.802aeb4b..png"
     },
     50722: function(e) {
         "use strict";
@@ -138258,23 +138258,23 @@
     },
     88766: function(e, t, n) {
         "use strict";
-        e.exports = n.p + "images/Avatar_Ren_00_Body1_Color.8db2847c..jpg"
+        e.exports = n.p + "act.hoyoverse.com/sr/event/e20230708version-8138dd/images/Avatar_Ren_00_Body1_Color.8db2847c..jpg"
     },
     1107: function(e, t, n) {
         "use strict";
-        e.exports = n.p + "images/Avatar_Ren_00_Body1_LightMap.78ec7aad..jpg"
+        e.exports = n.p + "act.hoyoverse.com/sr/event/e20230708version-8138dd/images/Avatar_Ren_00_Body1_LightMap.78ec7aad..jpg"
     },
     90436: function(e, t, n) {
         "use strict";
-        e.exports = n.p + "images/Avatar_Ren_00_Body2_Color.a446e9a7..jpg"
+        e.exports = n.p + "act.hoyoverse.com/sr/event/e20230708version-8138dd/images/Avatar_Ren_00_Body2_Color.a446e9a7..jpg"
     },
     7490: function(e, t, n) {
         "use strict";
-        e.exports = n.p + "images/Avatar_Ren_00_Body2_LightMap.51cf99fe..jpg"
+        e.exports = n.p + "act.hoyoverse.com/sr/event/e20230708version-8138dd/images/Avatar_Ren_00_Body2_LightMap.51cf99fe..jpg"
     },
     3134: function(e, t, n) {
         "use strict";
-        e.exports = n.p + "images/Avatar_Ren_00_Body_Matmap.a5c1abc9..jpg"
+        e.exports = n.p + "act.hoyoverse.com/sr/event/e20230708version-8138dd/images/Avatar_Ren_00_Body_Matmap.a5c1abc9..jpg"
     },
     45577: function(e) {
         "use strict";
@@ -138282,19 +138282,19 @@
     },
     99196: function(e, t, n) {
         "use strict";
-        e.exports = n.p + "images/Avatar_Ren_00_Face_Color.b22ed6e1..jpg"
+        e.exports = n.p + "act.hoyoverse.com/sr/event/e20230708version-8138dd/images/Avatar_Ren_00_Face_Color.b22ed6e1..jpg"
     },
     77137: function(e, t, n) {
         "use strict";
-        e.exports = n.p + "images/Avatar_Ren_00_Face_lightmap.5c688bcc..jpg"
+        e.exports = n.p + "act.hoyoverse.com/sr/event/e20230708version-8138dd/images/Avatar_Ren_00_Face_lightmap.5c688bcc..jpg"
     },
     24873: function(e, t, n) {
         "use strict";
-        e.exports = n.p + "images/Avatar_Ren_00_Hair_Color.963d5280..jpg"
+        e.exports = n.p + "act.hoyoverse.com/sr/event/e20230708version-8138dd/images/Avatar_Ren_00_Hair_Color.963d5280..jpg"
     },
     2134: function(e, t, n) {
         "use strict";
-        e.exports = n.p + "images/Avatar_Ren_00_Hair_LightMap.1a469549..jpg"
+        e.exports = n.p + "act.hoyoverse.com/sr/event/e20230708version-8138dd/images/Avatar_Ren_00_Hair_LightMap.1a469549..jpg"
     },
     75665: function(e) {
         "use strict";
@@ -138302,11 +138302,11 @@
     },
     17651: function(e, t, n) {
         "use strict";
-        e.exports = n.p + "images/Avatar_Ren_00_Weapon_Color.d57dbb55..jpg"
+        e.exports = n.p + "act.hoyoverse.com/sr/event/e20230708version-8138dd/images/Avatar_Ren_00_Weapon_Color.d57dbb55..jpg"
     },
     22191: function(e, t, n) {
         "use strict";
-        e.exports = n.p + "images/Face_Mask.a0e272f5..jpg"
+        e.exports = n.p + "act.hoyoverse.com/sr/event/e20230708version-8138dd/images/Face_Mask.a0e272f5..jpg"
     },
     63816: function(e) {
         "use strict";
@@ -138318,19 +138318,19 @@
     },
     38131: function(e, t, n) {
         "use strict";
-        e.exports = n.p + "images/BG.24397663..png"
+        e.exports = n.p + "act.hoyoverse.com/sr/event/e20230708version-8138dd/images/BG.24397663..png"
     },
     51343: function(e, t, n) {
         "use strict";
-        e.exports = n.p + "images/bg_ava_11.f5d7d7d3..png"
+        e.exports = n.p + "act.hoyoverse.com/sr/event/e20230708version-8138dd/images/bg_ava_11.f5d7d7d3..png"
     },
     87238: function(e, t, n) {
         "use strict";
-        e.exports = n.p + "images/color1.c6f45912..png"
+        e.exports = n.p + "act.hoyoverse.com/sr/event/e20230708version-8138dd/images/color1.c6f45912..png"
     },
     33017: function(e, t, n) {
         "use strict";
-        e.exports = n.p + "images/loading_bg_r11.9450280e..png"
+        e.exports = n.p + "act.hoyoverse.com/sr/event/e20230708version-8138dd/images/loading_bg_r11.9450280e..png"
     },
     50792: function(e) {
         "use strict";
@@ -138338,95 +138338,95 @@
     },
     90175: function(e, t, n) {
         "use strict";
-        e.exports = n.p + "images/loading_full_r11.e454251a..png"
+        e.exports = n.p + "act.hoyoverse.com/sr/event/e20230708version-8138dd/images/loading_full_r11.e454251a..png"
     },
     20859: function(e, t, n) {
         "use strict";
-        e.exports = n.p + "images/r11_scene_1.fa93a30c..png"
+        e.exports = n.p + "act.hoyoverse.com/sr/event/e20230708version-8138dd/images/r11_scene_1.fa93a30c..png"
     },
     41458: function(e, t, n) {
         "use strict";
-        e.exports = n.p + "images/r11_scene_2.6fda1af0..png"
+        e.exports = n.p + "act.hoyoverse.com/sr/event/e20230708version-8138dd/images/r11_scene_2.6fda1af0..png"
     },
     88681: function(e, t, n) {
         "use strict";
-        e.exports = n.p + "images/r11_scene_3.4dfd23d7..png"
+        e.exports = n.p + "act.hoyoverse.com/sr/event/e20230708version-8138dd/images/r11_scene_3.4dfd23d7..png"
     },
     27808: function(e, t, n) {
         "use strict";
-        e.exports = n.p + "images/r11_scene_4.385b3680..png"
+        e.exports = n.p + "act.hoyoverse.com/sr/event/e20230708version-8138dd/images/r11_scene_4.385b3680..png"
     },
     15917: function(e, t, n) {
         "use strict";
-        e.exports = n.p + "images/r11_scene_5.449cec42..png"
+        e.exports = n.p + "act.hoyoverse.com/sr/event/e20230708version-8138dd/images/r11_scene_5.449cec42..png"
     },
     25159: function(e, t, n) {
         "use strict";
-        e.exports = n.p + "images/r11_scene_6.0670be03..png"
+        e.exports = n.p + "act.hoyoverse.com/sr/event/e20230708version-8138dd/images/r11_scene_6.0670be03..png"
     },
     31110: function(e, t, n) {
         "use strict";
-        e.exports = n.p + "images/r11_scene_7.0181d827..png"
+        e.exports = n.p + "act.hoyoverse.com/sr/event/e20230708version-8138dd/images/r11_scene_7.0181d827..png"
     },
     68306: function(e, t, n) {
         "use strict";
-        e.exports = n.p + "images/r11_scene_8.d8cd9644..png"
+        e.exports = n.p + "act.hoyoverse.com/sr/event/e20230708version-8138dd/images/r11_scene_8.d8cd9644..png"
     },
     66957: function(e, t, n) {
         "use strict";
-        e.exports = n.p + "images/r11_scene_9.0e4048a1..png"
+        e.exports = n.p + "act.hoyoverse.com/sr/event/e20230708version-8138dd/images/r11_scene_9.0e4048a1..png"
     },
     39032: function(e, t, n) {
         "use strict";
-        e.exports = n.p + "images/r_11_act_1.25df9181..png"
+        e.exports = n.p + "act.hoyoverse.com/sr/event/e20230708version-8138dd/images/r_11_act_1.25df9181..png"
     },
     86703: function(e, t, n) {
         "use strict";
-        e.exports = n.p + "images/r_11_act_2.bd94b790..png"
+        e.exports = n.p + "act.hoyoverse.com/sr/event/e20230708version-8138dd/images/r_11_act_2.bd94b790..png"
     },
     92940: function(e, t, n) {
         "use strict";
-        e.exports = n.p + "images/r_11_act_3.f24b3bb2..png"
+        e.exports = n.p + "act.hoyoverse.com/sr/event/e20230708version-8138dd/images/r_11_act_3.f24b3bb2..png"
     },
     95457: function(e, t, n) {
         "use strict";
-        e.exports = n.p + "images/r_11_act_4.140e2646..png"
+        e.exports = n.p + "act.hoyoverse.com/sr/event/e20230708version-8138dd/images/r_11_act_4.140e2646..png"
     },
     61550: function(e, t, n) {
         "use strict";
-        e.exports = n.p + "images/r_11_act_5.ee1211e5..png"
+        e.exports = n.p + "act.hoyoverse.com/sr/event/e20230708version-8138dd/images/r_11_act_5.ee1211e5..png"
     },
     75049: function(e, t, n) {
         "use strict";
-        e.exports = n.p + "images/r_11_act_6.008fb68f..png"
+        e.exports = n.p + "act.hoyoverse.com/sr/event/e20230708version-8138dd/images/r_11_act_6.008fb68f..png"
     },
     11634: function(e, t, n) {
         "use strict";
-        e.exports = n.p + "images/r_11_boss_1.f3f34b83..jpg"
+        e.exports = n.p + "act.hoyoverse.com/sr/event/e20230708version-8138dd/images/r_11_boss_1.f3f34b83..jpg"
     },
     45461: function(e, t, n) {
         "use strict";
-        e.exports = n.p + "images/r_11_boss_2.9b685acc..jpg"
+        e.exports = n.p + "act.hoyoverse.com/sr/event/e20230708version-8138dd/images/r_11_boss_2.9b685acc..jpg"
     },
     68132: function(e, t, n) {
         "use strict";
-        e.exports = n.p + "images/r_11_boss_3.5e67c630..jpg"
+        e.exports = n.p + "act.hoyoverse.com/sr/event/e20230708version-8138dd/images/r_11_boss_3.5e67c630..jpg"
     },
     18060: function(e, t, n) {
         "use strict";
-        e.exports = n.p + "images/r_11_boss_4.49d16025..jpg"
+        e.exports = n.p + "act.hoyoverse.com/sr/event/e20230708version-8138dd/images/r_11_boss_4.49d16025..jpg"
     },
     35339: function(e, t, n) {
         "use strict";
-        e.exports = n.p + "images/r_11_main.21bb392e..jpg"
+        e.exports = n.p + "act.hoyoverse.com/sr/event/e20230708version-8138dd/images/r_11_main.21bb392e..jpg"
     },
     18398: function(e, t, n) {
         "use strict";
-        e.exports = n.p + "images/r_11_other.4f0997c2..png"
+        e.exports = n.p + "act.hoyoverse.com/sr/event/e20230708version-8138dd/images/r_11_other.4f0997c2..png"
     },
     94090: function(e, t, n) {
         "use strict";
-        e.exports = n.p + "images/slogan_12.c67a63aa..png"
+        e.exports = n.p + "act.hoyoverse.com/sr/event/e20230708version-8138dd/images/slogan_12.c67a63aa..png"
     },
     59437: function(e) {
         "use strict";
@@ -138434,39 +138434,39 @@
     },
     85621: function(e, t, n) {
         "use strict";
-        e.exports = n.p + "images/3y7.c42601f0..png"
+        e.exports = n.p + "act.hoyoverse.com/sr/event/e20230708version-8138dd/images/3y7.c42601f0..png"
     },
     7993: function(e, t, n) {
         "use strict";
-        e.exports = n.p + "images/girl.ab42e355..png"
+        e.exports = n.p + "act.hoyoverse.com/sr/event/e20230708version-8138dd/images/girl.ab42e355..png"
     },
     56853: function(e, t, n) {
         "use strict";
-        e.exports = n.p + "images/jy_dh.1dcad05a..png"
+        e.exports = n.p + "act.hoyoverse.com/sr/event/e20230708version-8138dd/images/jy_dh.1dcad05a..png"
     },
     1396: function(e, t, n) {
         "use strict";
-        e.exports = n.p + "images/kafuka.94e23d70..png"
+        e.exports = n.p + "act.hoyoverse.com/sr/event/e20230708version-8138dd/images/kafuka.94e23d70..png"
     },
     25429: function(e, t, n) {
         "use strict";
-        e.exports = n.p + "images/luka.1a135ec4..png"
+        e.exports = n.p + "act.hoyoverse.com/sr/event/e20230708version-8138dd/images/luka.1a135ec4..png"
     },
     1220: function(e, t, n) {
         "use strict";
-        e.exports = n.p + "images/ren.9fdb4447..png"
+        e.exports = n.p + "act.hoyoverse.com/sr/event/e20230708version-8138dd/images/ren.9fdb4447..png"
     },
     80236: function(e, t, n) {
         "use strict";
-        e.exports = n.p + "images/ren_2.4a86c139..png"
+        e.exports = n.p + "act.hoyoverse.com/sr/event/e20230708version-8138dd/images/ren_2.4a86c139..png"
     },
     97540: function(e, t, n) {
         "use strict";
-        e.exports = n.p + "images/who.3cbf170a..png"
+        e.exports = n.p + "act.hoyoverse.com/sr/event/e20230708version-8138dd/images/who.3cbf170a..png"
     },
     61050: function(e, t, n) {
         "use strict";
-        e.exports = n.p + "images/wrt.f0eeb1d4..png"
+        e.exports = n.p + "act.hoyoverse.com/sr/event/e20230708version-8138dd/images/wrt.f0eeb1d4..png"
     },
     59165: function(e) {
         "use strict";
@@ -138474,11 +138474,11 @@
     },
     25092: function(e, t, n) {
         "use strict";
-        e.exports = n.p + "images/ava_modal.938b1d34..png"
+        e.exports = n.p + "act.hoyoverse.com/sr/event/e20230708version-8138dd/images/ava_modal.938b1d34..png"
     },
     39808: function(e, t, n) {
         "use strict";
-        e.exports = n.p + "images/loading.28d63fd9..gif"
+        e.exports = n.p + "act.hoyoverse.com/sr/event/e20230708version-8138dd/images/loading.28d63fd9..gif"
     },
     25110: function(e, t, n) {
         e.exports = n(27698)
